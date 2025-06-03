@@ -14,19 +14,19 @@ Excel- pivot table, charts and graphs
 Cleaning data was essential step for the analysis to help ensure accuracy in the data set.i used the following processes in excel for the data cleaning;
 Data standardization, removing nulls, removing duplicates
 
-## data standardization
+## Data standardization
 Standardizing data ensures consistency, accuracy, and compatibility across datasets. It eliminates discrepancies in formats, units, naming conventions, and data types—creating a reliable foundation for meaningful analysis
 
-## removing duplicates
+## Removing duplicates
 Removing duplicates is essential to ensure data accuracy and integrity. We checked for duplicates but none were found.
 ![removing duplicates](https://github.com/user-attachments/assets/7bcd9531-731f-4187-9c20-dc1e4d741ce2)
 
-## pivot tables
+## Pivot tables
 Pivot tables were key tool in Exploratory Data Analysis (EDA), enabling quick, intuitive exploration of data.we also applied conditional formatting to enhance visualization. 
 ![pivot tables](https://github.com/user-attachments/assets/7d4088bd-723f-4625-b45d-901bc6bc5de4)
 
-analysis
-## KPIs
+## Analysis
+### KPIs
 ![KPIs](https://github.com/user-attachments/assets/6f50d5ab-6962-4734-b481-0dc0b7895e1d)
 
 ### key findings
@@ -35,7 +35,39 @@ Average quantity per transaction = 214470 ÷ 149116 = 1.44 items/transaction
 Which means on average most transactions just involve one or two items.
 
 
+### How have Maven Roasters sales trended over time?
+![sales trend](https://github.com/user-attachments/assets/0f21a8c2-8e6a-4569-86f0-6f4f4a1ad158)
 
+### Findings
+Maven Roasters has shown a strong upward trend in revenue over the past six months with monthly revenue as follows;
+January: $81,678,February: $76,145 (slight dip),March: $98,835 (notable recovery),April: $118,941 (continued growth),May: $156,728 (sharp increase) and June: $166,486 (highest revenue recorded).
+- Capitalize on Peak Months as they recorded the highest revenue.Identify what worked—popular products, marketing campaigns, loyalty programs, or seasonal demand.
+
+Goal: Replicate and scale winning strategies for future growth.
+
+### Which days of the week tend to be busiest?
+![busy days](https://github.com/user-attachments/assets/1d7e2c57-12fc-421b-928c-f6b3cb149a2c)
+
+### Findings
+
+
+key insights;
+ - Overall Growth: Total monthly revenue has more than doubled from February to June.
+
+ - Strong Momentum: Steady growth since March indicates improving customer demand or effective sales/marketing strategies.
+
+ - February Dip: A slight drop in February may suggest seasonal effects, promotional gaps, or external factors.
+
+# Dashboard
+![Dashboard](https://github.com/user-attachments/assets/1fe5abb4-7402-40df-987a-847425db3a93)
+
+## Recommendations
+- Opportunity to Drive Higher Value per Transaction
+Although both revenue and transaction numbers are high, the relatively low items-per-transaction ratio suggests the business can unlock more value per customer by encouraging bulk purchases or add-ons.e.g persuade customers to Buy Coffee + Bakery at a discount
+
+- Investigate the revenue for February deaper.Understand why it had the lowest revenue generated. Thereafter, implement actions such as Analyzing foot traffic, product mix, promotions, and external factors e.g weather, holidays.The primary goal should be Identifying and mitigating similar factors of slowdowns in future months.
+
+- Capitalize on Peak Months as they recorded the highest revenue.Identify what worked—popular products, marketing campaigns, loyalty programs, or seasonal demand.The main goal should be Replication of scale winning strategies for future growth.
 
 
 
