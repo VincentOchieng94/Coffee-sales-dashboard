@@ -25,6 +25,7 @@ Removing duplicates is essential to ensure data accuracy and integrity. We check
 Pivot tables were key tool in Exploratory Data Analysis (EDA), enabling quick, intuitive exploration of data.we also applied conditional formatting to enhance visualization. 
 ![pivot tables](https://github.com/user-attachments/assets/7d4088bd-723f-4625-b45d-901bc6bc5de4)
 
+
 ## Analysis
 ### KPIs
 ![KPIs](https://github.com/user-attachments/assets/6f50d5ab-6962-4734-b481-0dc0b7895e1d)
@@ -41,22 +42,30 @@ Which means on average most transactions just involve one or two items.
 ### Findings
 Maven Roasters has shown a strong upward trend in revenue over the past six months with monthly revenue as follows;
 January: $81,678,February: $76,145 (slight dip),March: $98,835 (notable recovery),April: $118,941 (continued growth),May: $156,728 (sharp increase) and June: $166,486 (highest revenue recorded).
-- Capitalize on Peak Months as they recorded the highest revenue.Identify what worked—popular products, marketing campaigns, loyalty programs, or seasonal demand.
-
-Goal: Replicate and scale winning strategies for future growth.
-
-### Which days of the week tend to be busiest?
-![busy days](https://github.com/user-attachments/assets/1d7e2c57-12fc-421b-928c-f6b3cb149a2c)
-
-### Findings
-
-
 key insights;
  - Overall Growth: Total monthly revenue has more than doubled from February to June.
 
  - Strong Momentum: Steady growth since March indicates improving customer demand or effective sales/marketing strategies.
 
  - February Dip: A slight drop in February may suggest seasonal effects, promotional gaps, or external factors.
+
+
+### Which days of the week tend to be busiest and why?
+![busy days](https://github.com/user-attachments/assets/1d7e2c57-12fc-421b-928c-f6b3cb149a2c)
+
+### Findings
+The busiest days at Maven Roasters are:
+Friday which has the highest transaction volume,Thursday and Monday also show consistently high activity whereas saturday tends to be the least busy day.
+Possible Reasons;
+- Weekday Rush (Mon–Fri):Most transactions occur during the workweek, likely due to:Morning coffee runs before work,Afternoon pick-me-ups or office workers frequenting nearby locations
+- Weekend Dip (Saturday & Sunday):Saturday has the lowest number of transactions maybe due to;Fewer commuters in urban business districts or Ccustomers may prefer home-brewing or visiting different venues on weekends
+
+### Which products are sold most and least often? 
+![findings](https://github.com/user-attachments/assets/be2cdcca-84e6-4bc4-a705-d40ca327051d)
+
+### Findings
+
+
 
 # Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/1fe5abb4-7402-40df-987a-847425db3a93)
@@ -68,8 +77,13 @@ Although both revenue and transaction numbers are high, the relatively low items
 - Investigate the revenue for February deaper.Understand why it had the lowest revenue generated. Thereafter, implement actions such as Analyzing foot traffic, product mix, promotions, and external factors e.g weather, holidays.The primary goal should be Identifying and mitigating similar factors of slowdowns in future months.
 
 - Capitalize on Peak Months as they recorded the highest revenue.Identify what worked—popular products, marketing campaigns, loyalty programs, or seasonal demand.The main goal should be Replication of scale winning strategies for future growth.
-
-
+  
+- Offer Weekend-Exclusive Deals or Brunch Menus
+Introduce bundle deals such as;
+   - Coffee + Croissant combo for 20% off (Saturdays & Sundays only)
+   - Buy 2 drinks, get the 3rd free — Saturdays only.
+     
+These methods would help to attract casual weekend visitors and also encourage group vivits.
 
 
 
