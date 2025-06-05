@@ -17,6 +17,11 @@ Data standardization, removing nulls, removing duplicates
 ## Data standardization
 Standardizing data ensures consistency, accuracy, and compatibility across datasets. It eliminates discrepancies in formats, units, naming conventions, and data types—creating a reliable foundation for meaningful analysis
 
+## Finding Null Values
+We have to remove null and blanks to ensure the data is of good quality.
+![removing blanks](https://github.com/user-attachments/assets/cbf849e5-3c2d-4cd8-be51-d5bf81e4d6b2)
+
+
 ## Removing duplicates
 Removing duplicates is essential to ensure data accuracy and integrity. We checked for duplicates but none were found.
 ![removing duplicates](https://github.com/user-attachments/assets/7bcd9531-731f-4187-9c20-dc1e4d741ce2)
@@ -48,6 +53,7 @@ key insights;
  - Strong Momentum: Steady growth since March indicates improving customer demand or effective sales/marketing strategies.
 
  - February Dip: A slight drop in February may suggest seasonal effects, promotional gaps, or external factors.
+   
 
 
 ### Which days of the week tend to be busiest and why?
@@ -60,12 +66,15 @@ Possible Reasons;
 - Weekday Rush (Mon–Fri):Most transactions occur during the workweek, likely due to:Morning coffee runs before work,Afternoon pick-me-ups or office workers frequenting nearby locations
 - Weekend Dip (Saturday & Sunday):Saturday has the lowest number of transactions maybe due to;Fewer commuters in urban business districts or Ccustomers may prefer home-brewing or visiting different venues on weekends
 
-### Which products are sold most and least often? 
+  
+
+### Which products are sold most and least often? Which drive the most revenue for the business?
 ![findings](https://github.com/user-attachments/assets/be2cdcca-84e6-4bc4-a705-d40ca327051d)
 
 ### Findings
-
-
+Most Frequently sold products are;Coffee with 29,177 transactions,folowed by Tea having a total of 22,467 transactions then Bakery Items with 22,404 transactions.
+The least often sold Products products include;Packaged Chocolate with 487 transactions,Branded Merchandise having 734 transactions,Loose Tea having 1,210 transactions and Coffee Beans having recorded a total of 1,738 transactions.
+Based on industry patterns and sales volume we can conclude to say that products such as Coffee, Bakery and Tea are the revenue drivers for the business
 
 # Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/1fe5abb4-7402-40df-987a-847425db3a93)
@@ -85,5 +94,9 @@ Introduce bundle deals such as;
      
 These methods would help to attract casual weekend visitors and also encourage group vivits.
 
+- Highlight popular items
+Promote coffee varieties with highest customer demand.
+Introduce bundle offers
+The bussiness can pair products such as tea or coffee with bakery items to increase average sales and transaction value.
 
 
