@@ -1,4 +1,4 @@
-# Coffee-sales-dashboard
+# Coffee-Sales-Analysis
 Coffee sales analysis with MS Excel
 
 ## Project Overview
