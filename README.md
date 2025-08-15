@@ -56,7 +56,7 @@ key insights;
    
 
 
-### Which days of the week tend to be busiest and why?
+### Which days of the week tend to be bussiest and why?
 ![busy days](https://github.com/user-attachments/assets/1d7e2c57-12fc-421b-928c-f6b3cb149a2c)
 
 ### Findings
