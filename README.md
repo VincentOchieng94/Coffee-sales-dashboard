@@ -100,3 +100,5 @@ Introduce bundle offers
 The bussiness can pair products such as tea or coffee with bakery items to increase average sales and transaction value.
 
 
+
+
